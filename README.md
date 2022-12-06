@@ -7,7 +7,7 @@ Versions used:
 Commands to run:
 
 - npm init
-- npm install --force
+- yarn install --force
 - npm run dev
 - npm i @solidjs/router --force
 
