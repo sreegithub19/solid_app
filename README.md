@@ -10,6 +10,7 @@ Commands to run:
 - yarn install --force
 - npm run dev
 - npm i @solidjs/router --force
+- Removing "fsevents": https://stackoverflow.com/questions/57082249/how-to-fix-error-fsevents2-0-7-the-platform-linux-is-incompatible-with-thi
 
 Note:
 
