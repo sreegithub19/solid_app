@@ -1,3 +1,13 @@
+Steps to run:
+
+1. npm install --force
+2. npm run dev
+3. npm i @solidjs/router --force
+
+Note:
+
+1. Refresh the URLs once navigated to puzzles/sudoku/chess.
+
 # SolidStart
 
 This directory is a brief example of a [SolidStart](https://github.com/ryansolid/solid-start) site that can be deployed to Vercel with zero configuration.
