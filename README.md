@@ -1,8 +1,16 @@
-Steps to run:
+Versions used:
 
-1. npm install --force
-2. npm run dev
-3. npm i @solidjs/router --force
+- Angular CLI: 14.1.2
+- Node: 16.10.0
+- Package Manager: npm 7.24.0
+
+Commands to run:
+
+- npm init
+- yarn install --force
+- npm run dev
+- npm i @solidjs/router --force
+- Removing "fsevents": https://stackoverflow.com/questions/57082249/how-to-fix-error-fsevents2-0-7-the-platform-linux-is-incompatible-with-thi
 
 Note:
 
