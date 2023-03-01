@@ -46,3 +46,7 @@ This uses the [Vercel Adapter](https://github.com/solidjs/solid-start/tree/main/
 ```bash
 npm run build
 ```
+
+Demo:
+
+https://user-images.githubusercontent.com/55496113/222207821-6a9d94c2-6f16-4043-83a0-8502ea9956e5.mp4
