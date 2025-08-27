@@ -1,7 +1,7 @@
 Versions used:
 
 - Angular CLI: 14.1.2
-- Node: 22.0.0
+- Node: 20.0.0
 - Package Manager: npm 7.24.0
 
 Commands to run:

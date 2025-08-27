@@ -15,7 +15,7 @@
     "vite": "^2.9.15"
   },
   "engines": {
-    "node": "22.x"
+    "node": "20.x"
   },
   "name": "solid_app",
   "description": "This directory is a brief example of a [SolidStart](https://github.com/ryansolid/solid-start) site that can be deployed to Vercel with zero configuration.",
