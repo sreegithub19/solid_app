@@ -52,7 +52,7 @@ p {
         <a href="https://solidjs.com" target="_blank">
           solidjs.com
         </a>{" "}
-        to learn how to build Solid apps.
+        to learn how to build the Solid apps.
       </p>
     </main>
   );
